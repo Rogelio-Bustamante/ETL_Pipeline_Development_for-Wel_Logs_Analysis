@@ -12,6 +12,10 @@ In this project, I developed and implemented an ETL pipeline for processing well
 
 ### DLT pipeline
 
+ ![alt text](https://github.com/Rogelio-Bustamante/ETL_Pipeline_Development_for-Wel_Logs_Analysis/blob/main/Selected_Curves.png)
+ 
+ ![alt text](https://github.com/Rogelio-Bustamante/ETL_Pipeline_Development_for-Wel_Logs_Analysis/blob/main/Statistics.png)
+ 
 This is the part that allows us to orchestrate the execution of DLT tasks (DLT decorator & functions) defined in the notebooks. Here you can see created tables and their lineage.
 
  ![alt text](https://raw.githubusercontent.com/Rogelio-Bustamante/ETL_Pipeline_Development_for-Wel_Logs_Analysis/refs/heads/main/DTL_pipeline.png)
