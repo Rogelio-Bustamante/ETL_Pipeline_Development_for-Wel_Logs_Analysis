@@ -10,11 +10,13 @@ In this project, I developed and implemented an ETL pipeline for processing well
 
 **Technologies:** Delta Live Tables, Spark Structured Streaming, Auto Loader, SQL, PySpark.
 
-### DLT pipeline
+### Graphycs
 
  ![alt text](https://github.com/Rogelio-Bustamante/ETL_Pipeline_Development_for-Wel_Logs_Analysis/blob/main/Selected_Curves.png)
  
  ![alt text](https://github.com/Rogelio-Bustamante/ETL_Pipeline_Development_for-Wel_Logs_Analysis/blob/main/Statistics.png)
+
+### DLT pipeline
  
 This is the part that allows us to orchestrate the execution of DLT tasks (DLT decorator & functions) defined in the notebooks. Here you can see created tables and their lineage.
 
