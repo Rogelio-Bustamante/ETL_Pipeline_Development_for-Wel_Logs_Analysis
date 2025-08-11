@@ -12,7 +12,11 @@ In this project, I developed and implemented an ETL pipeline for processing well
 
 ### Graphycs
 
+This graphyc shows some logs (*i.e.* GR, ILD, ILM and NPHI) from well 20_8_7.
+
  ![alt text](https://github.com/Rogelio-Bustamante/ETL_Pipeline_Development_for-Wel_Logs_Analysis/blob/main/Selected_Curves.png)
+
+Here you can find, for each available log, metrics such as the maximum, minimum, mean, standard deviation, and the range of valid measurements (i.e., only non-null values), among others.
  
  ![alt text](https://github.com/Rogelio-Bustamante/ETL_Pipeline_Development_for-Wel_Logs_Analysis/blob/main/Statistics.png)
 
