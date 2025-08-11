@@ -9,3 +9,7 @@ In this project, I developed and implemented an ETL pipeline for processing well
 - Automated real-time data ingestion processes.
 
 **Technologies:** Delta Live Tables, Spark Structured Streaming, Auto Loader, SQL, PySpark.
+
+### DLT pipeline
+
+This is the part that allows us to orchestrate the execution of DLT tasks (DLT decorator & functions) defined in the notebooks. Here you can see created tables and their lineage.
