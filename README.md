@@ -10,7 +10,7 @@ In this project, I developed and implemented an ETL pipeline for processing well
 
 **Technologies:** Delta Live Tables, Spark Structured Streaming, Auto Loader, SQL, PySpark.
 
-### ETL process
+### ETL processes
 
 ### Graphycs
 
