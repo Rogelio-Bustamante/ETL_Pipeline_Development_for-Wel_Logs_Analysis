@@ -1,4 +1,4 @@
-# ETL_Pipeline_Development_for-Wel_Logs_Analysis
+# ETL_Pipeline_Development_for_Wel_Logs_Analysis
 In this project, I developed and implemented an ETL pipeline for processing well log data using advanced data engineering technologies in Databricks, Spark Structured Streaming and Delta Live Tables (DLT). The pipeline enabled the ingestion, validation, cleaning, and transformation of large volumes of well data, facilitating the extraction of valuable information for geophysical analysis.
 
 **Responsibilities:**
