@@ -12,6 +12,10 @@ In this project, I developed and implemented an ETL pipeline for processing well
 
 ### ETL processes
 
+This diagram presents a detailed representation of the complete ETL process implemented to accomplish the proposed objectives for this project.
+
+ ![alt text](https://github.com/Rogelio-Bustamante/ETL_Pipeline_Development_for_Wel_Logs_Analysis/blob/main/Streaming_ETL_processes.png)
+
 ### Graphycs
 
 This graphyc shows some logs (*i.e.* GR, ILD, ILM and NPHI) from well 20_8_7.
